@@ -1,7 +1,7 @@
 public class ifElse{
   public static void main(String[] arg){
     int idade = 15;
-    int quantidadePessoas = 2
+    int quantidadePessoas = 2;
     if(idade>=18){
       System.out.print("You're an adult!");
     }else if(idade<18 && quantidadePessoas >1){
