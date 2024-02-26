@@ -1,0 +1,10 @@
+public class Tabuada {
+    public static void main ( String[] args){
+        double n = 3.14159;
+        double  R =  2;
+        double A = n*(R*R);
+
+        System.out.print(A);
+
+    }
+}
